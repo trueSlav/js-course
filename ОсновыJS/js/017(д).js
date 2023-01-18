@@ -11,6 +11,7 @@
 // ******
 
 let result = '';
+
 const lenght = 6;
 
 for(let i = 1; i <= 6; i++){
